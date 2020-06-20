@@ -1,6 +1,6 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-![Kiku](public/Capture.png)
+![Kiku](public/Capture.PNG)
 
 ## Available Scripts
 
