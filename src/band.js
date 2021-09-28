@@ -1,7 +1,7 @@
-import React, { Component } from 'react';
+import React from 'react';
 class Band extends React.Component {
     constructor(props) {
-        super(props);
+        super(props);``
         this.state = {  };
     }
     render() {
